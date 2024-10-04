@@ -113,7 +113,7 @@
   - Define attributes and methods for each class.
   - Implement the `getProductType()` method for both `Good` and `Cargo`.
 
-#### **Pratyush: Inventory Management**
+#### **Pratyush Bhagat: Inventory Management**
 - **Responsibilities:**
   - Implement the `Inventory` class.
 - **Tasks:**
