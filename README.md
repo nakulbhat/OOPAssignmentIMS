@@ -105,7 +105,7 @@
 
 ## Team Member Assignments
 
-#### **Team Member 1: Product Management**
+#### **Vishal: Product Management**
 - **Responsibilities:**
   - Implement the `Product` abstract class.
   - Develop the `Good` and `Cargo` subclasses.
@@ -113,7 +113,7 @@
   - Define attributes and methods for each class.
   - Implement the `getProductType()` method for both `Good` and `Cargo`.
 
-#### **Team Member 2: Inventory Management**
+#### **Pratyush Bhagat: Inventory Management**
 - **Responsibilities:**
   - Implement the `Inventory` class.
 - **Tasks:**
@@ -121,7 +121,7 @@
   - Implement methods to add products, procure products, check stock, and generate statistics.
   - Ensure thread safety for concurrent access (consider using synchronization).
 
-#### **Team Member 3: Order and Statistics Management**
+#### **Prakhar: Order and Statistics Management**
 - **Responsibilities:**
   - Implement the `Order` class and the `Statistics` class.
 - **Tasks:**
@@ -129,14 +129,14 @@
   - Implement order confirmation and details methods in the `Order` class.
   - Create methods to update and display statistics in the `Statistics` class.
 
-#### **Team Member 4: User Management**
+#### **Prajwal: User Management**
 - **Responsibilities:**
   - Implement the `User` abstract class and the `Manager` and `Customer` subclasses.
 - **Tasks:**
   - Define attributes and methods for user management.
   - Implement methods for adding products, viewing statistics, and placing orders for each user type.
 
-#### **Team Member 5: User Interface and Integration**
+#### **Nakul: User Interface and Integration**
 - **Responsibilities:**
   - Develop a simple console-based or GUI interface for user interaction.
 - **Tasks:**
